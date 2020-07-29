@@ -1,0 +1,163 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: INFERNUS PRESENCE Custom\n"
+"POT-Creation-Date: 2020-07-28 22:36+0300\n"
+"PO-Revision-Date: 2020-07-28 22:36+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.1\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:4
+msgid "Page not found"
+msgstr ""
+
+#: 404.php:6
+msgid "Isn't it better to listen to"
+msgstr ""
+
+#: 404.php:6
+msgid "damn good music"
+msgstr ""
+
+#: 404.php:6
+msgid "instead"
+msgstr ""
+
+#: comments.php:9
+#, php-format
+msgctxt "comments title"
+msgid "One comment:"
+msgid_plural "%1$s comments:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:26
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:27
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:28
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:38
+msgid "write your comment here"
+msgstr ""
+
+#: comments.php:40
+msgid "Speak about it"
+msgstr ""
+
+#: comments.php:41
+msgid "Reply to"
+msgstr ""
+
+#: comments.php:43
+msgid "Name"
+msgstr ""
+
+#: comments.php:43
+msgid "your name"
+msgstr ""
+
+#: comments.php:44
+msgid "E-mail"
+msgstr ""
+
+#: comments.php:44
+msgid "your e-mail"
+msgstr ""
+
+#: functions.php:156
+msgid "Developer link in footer"
+msgstr ""
+
+#: functions.php:161
+msgid "Developed by"
+msgstr ""
+
+#: functions.php:166
+msgid "Noisier"
+msgstr ""
+
+#: functions.php:176
+msgid "Text before link"
+msgstr ""
+
+#: functions.php:183
+msgid "Text in link"
+msgstr ""
+
+#: functions.php:190
+msgid "Link"
+msgstr ""
+
+#: functions_ext.php:39
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: functions_ext.php:40
+msgid "Edit"
+msgstr ""
+
+#: functions_ext.php:50
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: index.php:19 page.php:21 single.php:21
+msgid "No posts"
+msgstr ""
+
+#: index.php:27 page.php:29 single.php:29
+msgid "Previous"
+msgstr ""
+
+#: index.php:28 page.php:30 single.php:30
+msgid "Next"
+msgstr ""
+
+#: parts/content-single.php:5 parts/content.php:6
+msgid "Author"
+msgstr ""
+
+#: parts/content-single.php:6 parts/content.php:7
+msgid "Categories"
+msgstr ""
+
+#: parts/content.php:41
+msgid "Read more"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "INFERNUS PRESENCE Custom"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Infernus Presence custom theme"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Dmitry 'Noisier' Shumilin"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://github.com/drnoisier"
+msgstr ""
